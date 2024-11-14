@@ -6,7 +6,7 @@ const Loading = () => {
 		<div className="loader">
 			<div className="svg-wrapper">
 				<img
-					src="/src/assets/images/portal-a.png"
+					src="Rick-and-Morty-main\src\assets\images\portal-a.png"
 					alt="Loading..."
 					className="loading-img"
 				/>
